@@ -1,1 +1,3 @@
 venv
+aws_helpers.egg-info
+dist
