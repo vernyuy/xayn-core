@@ -1,4 +1,4 @@
-name: Publish hintekk_core to PyPI dev
+name: Publish xayn_core to PyPI dev
 
 on:
   push:
